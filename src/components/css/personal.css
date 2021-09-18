@@ -1,0 +1,20 @@
+.personal-container {
+    height: 92vh;
+    display: flex;
+    border: 1px solid red;
+  }
+  
+  .personal-form {
+    border: 1px solid;
+    width: 50%;
+  }
+  .qual-gen{
+    position: fixed;
+    right:4rem;
+    bottom:12rem
+  }
+  .qual-save{
+    position: fixed;
+    right:4rem;
+    bottom:8rem
+  }
